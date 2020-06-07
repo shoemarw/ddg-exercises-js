@@ -25,6 +25,7 @@ class SimplicialComplexOperators {
          * @param {module:Core.Mesh} mesh The input mesh which we index.
          */
         assignElementIndices(mesh) {
+                
                 // TODO
         }
 
